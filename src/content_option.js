@@ -94,7 +94,13 @@ const services = [{
     },
 ];
 
-const dataportfolio = [{
+const dataportfolio = [
+    {
+        img: "xoxo.png",
+        description: "The Committee is a collective of women’s basketball enthusiasts committed to equitable coverage and elevation of stories across multiple levels of the ecosystem.",
+        link: "https://www.thecommitteesportsgroup.com/",
+    },  
+    {
         img: "one.png",
         description: "Gourmand purpose is to empower Private Chefs everywhere, at all levels. Create unique experiences through fine dining.",
         link: "https://github.com/Aaronandrew/thegourmandapp",
